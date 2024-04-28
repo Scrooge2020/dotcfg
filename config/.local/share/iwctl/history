@@ -1,0 +1,4 @@
+station wlan0 status
+station wlan0 show
+station wlan0 connect W1R3 
+quit

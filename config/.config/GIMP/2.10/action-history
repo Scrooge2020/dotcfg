@@ -1,0 +1,11 @@
+# GIMP action-history
+
+(history-item "dialogs-preferences" 1)
+(history-item "tools-paintbrush" 1)
+(history-item "file-open" 0)
+(history-item "image-new" 0)
+(history-item "dynamics-edit" 0)
+(history-item "dynamics-new" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

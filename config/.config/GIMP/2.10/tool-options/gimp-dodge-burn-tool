@@ -1,0 +1,10 @@
+# GIMP gimp-dodge-burn-tool options
+
+(foreground (color-rgb 0.15686275064945221 0.16470588743686676 0.21176472306251526))
+(brush "G_Sparks")
+(dynamics "Pressure Custom")
+(palette "Color History")
+(brush-size 60)
+(brush-spacing 0.14999999999999999)
+
+# end of gimp-dodge-burn-tool options

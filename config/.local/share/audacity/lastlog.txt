@@ -1,0 +1,4 @@
+05:28:10 AM: Audacity 3.4.2
+05:28:10 AM: FFmpeg libraries loaded successfully from: /usr/lib/libavformat.so.60.16.100
+05:28:12 AM: sqlite3 message: (1) no such table: project in "SELECT 1 FROM project LIMIT 1;"
+05:28:12 AM: FFmpeg libraries loaded successfully from: /usr/lib/libavformat.so.60.16.100

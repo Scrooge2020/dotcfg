@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/turnip/Downloads/dracula-gtk-theme.tar.gz" added="2024-04-22T19:53:49.603795Z" modified="2024-04-22T19:53:49.603801Z" visited="2024-04-22T19:53:49.603797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T19:53:49.603798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/dracula-icons-theme.tar.gz" added="2024-04-22T19:57:30.287506Z" modified="2024-04-22T19:57:30.287517Z" visited="2024-04-22T19:57:30.287507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T19:57:30.287509Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/dunstrc" added="2024-04-22T20:01:37.724828Z" modified="2024-04-22T20:01:37.724837Z" visited="2024-04-22T20:01:37.724829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T20:01:37.724832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/papirus-folders-git.tar.gz" added="2024-04-22T20:17:57.796098Z" modified="2024-04-22T20:17:57.796106Z" visited="2024-04-22T20:17:57.796100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T20:17:57.796102Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/.config/gtk-3.0/settings.ini" added="2024-04-22T20:22:40.580869Z" modified="2024-04-22T20:22:41.195268Z" visited="2024-04-22T20:22:40.580870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.6" exec="&apos;soffice %u&apos;" modified="2024-04-22T20:22:41.195267Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/transmission-gtk3.tar.gz" added="2024-04-22T20:29:58.240592Z" modified="2024-04-22T20:29:58.240597Z" visited="2024-04-22T20:29:58.240593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T20:29:58.240594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/arch.png" added="2024-04-22T20:37:18.447946Z" modified="2024-04-22T20:37:18.447957Z" visited="2024-04-22T20:37:18.447947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T20:37:18.447951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/arch(1).png" added="2024-04-22T20:37:18.500278Z" modified="2024-04-22T20:37:18.500285Z" visited="2024-04-22T20:37:18.500280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-22T20:37:18.500281Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Pictures/bg" added="2024-04-25T06:34:24.509850Z" modified="2024-04-25T06:34:25.408106Z" visited="2024-04-25T06:34:24.509852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-25T06:34:25.408104Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Projects/0_sys/dwm/dwm.png" added="2024-04-27T06:24:42.546535Z" modified="2024-04-27T06:24:42.546539Z" visited="2024-04-27T06:24:42.546536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T06:24:42.546537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Pictures/Themes/Dracula/arch.png" added="2024-04-27T06:30:41.926390Z" modified="2024-04-27T06:30:41.926393Z" visited="2024-04-27T06:30:41.926391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T06:30:41.926392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/papirus-folders.tar.gz" added="2024-04-27T09:56:46.220624Z" modified="2024-04-27T09:56:46.220643Z" visited="2024-04-27T09:56:46.220635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-27T09:56:46.220638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Pictures/Screenshots/ss-2024-04-27.png" added="2024-04-27T10:06:58.663518Z" modified="2024-04-27T10:06:58.663521Z" visited="2024-04-27T10:06:58.663519Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T10:06:58.663520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Projects/0_sys/scripts/wifi/abc.txt" added="2024-04-27T17:53:30.159102Z" modified="2024-04-27T17:53:30.874277Z" visited="2024-04-27T17:53:30.159103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.6" exec="&apos;soffice %u&apos;" modified="2024-04-27T17:53:30.874275Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Pictures/Misc/arch.png" added="2024-04-27T23:22:12.750984Z" modified="2024-04-27T23:22:12.750987Z" visited="2024-04-27T23:22:12.750984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T23:22:12.750986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Pictures/Screenshots/ss-2024-04-28.png" added="2024-04-27T23:29:12.289980Z" modified="2024-04-27T23:29:12.289984Z" visited="2024-04-27T23:29:12.289981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2024-04-27T23:29:12.289983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/dwm-rmaster-6.2.diff" added="2024-04-28T15:42:06.864076Z" modified="2024-04-28T15:42:07.160999Z" visited="2024-04-28T15:42:06.864077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-28T15:42:07.160996Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/turnip/Downloads/TrgAAwTiTfHhhH40jJ.webp" added="2024-04-28T16:10:50.476891Z" modified="2024-04-28T16:10:50.767448Z" visited="2024-04-28T16:10:50.476892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-28T16:10:50.767441Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
